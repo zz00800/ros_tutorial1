@@ -8,4 +8,6 @@
 3. turtlesim 실행 후, ros2 topic pub으로 새롭게 정의한 메시지 타입을 publish하여 등속 원운동을 명령한다.
 4. C++ / Python등의 언어는 자유롭게 선택하여 진행한다.
 
-### 
+### Node/Topic 요약!
+[Screenshot from 2022-01-03 14-12-57](https://user-images.githubusercontent.com/53456054/147901314-d544720e-c1f0-4d17-b049-e67291879790.png)
+velocity, radius, direction을 파라미터로 받아와 조정 가능
